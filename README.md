@@ -3,7 +3,7 @@ A web application connecting Māori Midwives to expecting mothers.
 
 # Storyboard, Plan & Wireframes
 
-<a href="https://miro.com/app/board/uXjVPmKY4c4=/" target="_blank">View Miro board here</a>
+<a href="https://miro.com/app/board/uXjVPmKY4c4=/" target="_blank" rel="noopener noreferrer">View Miro board here</a>
 
 # Features:
 1. Users can view a database of Māori Midwives in New Zealand based on requested filters (region, ethnicity, more) or none at all.

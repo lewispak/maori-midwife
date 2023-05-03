@@ -1,8 +1,9 @@
 import React from 'react'
+import "./register.scss"
 
 const Register = () => {
   return (
-    <div>Register</div>
+    <div className="register">Register</div>
   )
 }
 

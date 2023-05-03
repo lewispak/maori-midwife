@@ -1,8 +1,9 @@
 import React from 'react'
+import "./browse.scss"
 
 const Browse = () => {
   return (
-    <div>Browse</div>
+    <div className="browse">Browse</div>
   )
 }
 

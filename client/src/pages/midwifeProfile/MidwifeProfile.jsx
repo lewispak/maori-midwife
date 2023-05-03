@@ -1,8 +1,9 @@
 import React from 'react'
+import "./midwifeProfile.scss"
 
 const MidwifeProfile = () => {
   return (
-    <div>MidwifeProfile</div>
+    <div className="midwifeProfile">MidwifeProfile</div>
   )
 }
 

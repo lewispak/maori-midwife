@@ -1,0 +1,36 @@
+.home{
+  height: 100vh;
+  background-color: #03789E;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .home-container{
+    display: flex;
+
+    .left{
+      h1{}
+
+      .bullet-points{
+        display: flex; 
+
+        p{
+
+        }
+
+        img{
+          height: 100px;
+          width: 100px;
+        }
+      }
+    }
+  
+    .right{
+
+      .img{
+        height: 100px;
+        width: 100px;
+      }
+    }
+  }
+}

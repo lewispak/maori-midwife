@@ -1,26 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .home{
   height: 100vh;
-  background-color: #03789E;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url("../../images/MD_wallpaper_1920x1080px.png"); 
+  background-size: cover;
+  color: white;
 
   .home-container{
     display: flex;
+    align-items: center;
+    justify-content: center;
 
     .left{
-      h1{}
+      text-align: center;
 
-      .bullet-points{
+      h1{
+        font-size: 80px;
+        text-decoration-line: underline;
+        text-underline-offset: 10px;
+        text-decoration-color: #FFBD5A;
+      }
+
+      p{
+        font-size: 20px;
+        padding: 20px;
+      }
+
+      .bullet-point{
         display: flex; 
-
+        align-items: center;
+        padding-left: 10vw;
         p{
-
+          font-size: 20px;
+          padding: 10px;
         }
 
         img{
-          height: 100px;
-          width: 100px;
+          height: 40px;
+          width: 40px;
+          padding: 10px;
         }
       }
     }

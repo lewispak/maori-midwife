@@ -46,9 +46,9 @@
   
     .right{
 
-      .img{
-        height: 100px;
-        width: 100px;
+      img{
+        max-width: 500px;
+        max-height: 500px;
       }
     }
   }

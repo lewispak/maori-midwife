@@ -3,7 +3,6 @@ import "./home.scss"
 import img1 from '../../images/1.png'
 import img2 from '../../images/2.png'
 import img3 from '../../images/3.png'
-import bg_img from '../../images/MD_wallpaper_1920x1080px.png'
 
 import nzMapWhite from '../../images/nz_map_white.png'
 
@@ -35,7 +34,7 @@ const Home = () => {
 
         {/* Right side of page */}
         <div className="right">
-          <img src={nzMapWhite} width="350vw" height="500vh" alt="nzMapWhite" />
+          <img src={nzMapWhite} alt="nzMapWhite" />
         </div>
       </div>
     </div>
